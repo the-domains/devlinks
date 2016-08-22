@@ -1,0 +1,14 @@
+layout_spectrum: 0.420961307361722
+typography_spectrum: 0.013737551169469953
+color:
+  brandStrength: 0.7201891546137631
+  lightness: 0.9271777714602649
+  saturation: 0.06962446123361588
+  rhythmicContrast: 0.3341324965003878
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: DevLinks
