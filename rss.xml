@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[DevLinks]]></title>
+        <description><![CDATA[DevLinks]]></description>
+        <link>https://thegrid.ai/devlinks/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 22 Aug 2016 15:52:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/devlinks/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Twelve-Factor App]]></title>
+            <description><![CDATA[<article><h1>The Twelve-Factor App</h1><p>A methodology for building modern, scalable, maintainable software-as-a-service apps.</p></article>]]></description>
+            <link>https://12factor.net/</link>
+            <guid isPermaLink="false">899d598f-84f1-45e7-963b-578b2b20dd65</guid>
+            <pubDate>Mon, 22 Aug 2016 15:52:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kellan Elliot-McCrea - Transforming Organizational Culture at Etsy - CfA Summit (2015)]]></title>
+            <description><![CDATA[<article><h1>Kellan Elliot-McCrea - Transforming Organizational Culture at Etsy - CfA Summit (2015)</h1><p>Kellan Elliot-McCrea, Chief Technology Officer at Etsy, talks about what it takes to build and protect organizational culture including risk-taking, transparency, rapid prototyping, and embracing failure. With a team of over 685 employees serving 1.4 million active users, Etsy's mission permeates the company and has created a culture of continuous learning.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/95dd04ecba38dec988782e9b6185176a/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fa772VLZ4ot8%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=a772VLZ4ot8&amp;utm_source=Software+Lead+Weekly&amp;utm_campaign=c62ddee4ea-SWLW_193&amp;utm_medium=email&amp;utm_term=0_efe3d3cd5b-c62ddee4ea-46852069</link>
+            <guid isPermaLink="false">f9950b13-b908-400e-977a-56529d11668e</guid>
+            <pubDate>Mon, 22 Aug 2016 05:59:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
