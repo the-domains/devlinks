@@ -4,11 +4,18 @@
         <description><![CDATA[DevLinks]]></description>
         <link>https://thegrid.ai/devlinks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 15:53:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 15:53:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/devlinks/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Top 10 takeaways the day after #DockerCon | Clouds With Carl - Linkis.com]]></title>
+            <description><![CDATA[<article><h1>Top 10 takeaways the day after #DockerCon | Clouds With Carl - Linkis.com</h1><p>What were your top takeaways from ASAE Annual 2016 in Salt Lake City? What changes are you planning to implement? What could have been better? What will you do differently next time? I will share my thoughts and I invite you to jump on to the chat with me (and on camera, if you like) to discuss in...</p><img src="http://linkis.com/images/logo-560%D1%85281.png"></article>]]></description>
+            <link>http://linkis.com/cloudswithcarl.com/f8FdQ?mkt_tok=3RkMMJWWfF9wsRonuqTMZKXonjHpfsX57ugtX6e0lMI%2F0ER3fOvrPUfGjI4ATcBgI%2BSLDwEYGJlv6SgFQ7LMMaZq1rgMXBk%3D</link>
+            <guid isPermaLink="false">370cd3da-97b4-495c-945e-a07b7dfa4371</guid>
+            <pubDate>Tue, 23 Aug 2016 15:53:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[10 myths about enterprise adoption of Docker]]></title>
-            <description><![CDATA[<article><h1>10 myths about enterprise adoption of Docker</h1><p>In the past 12 months, enterprises considering Docker have been presented with a daunting series of steps on their journey from virtualization to containerization. Docker has made the first step easy and free. For the enterprise, it's the next steps where the pain begins.</p><img src="http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/uploads/2015/06/Docker-plush-whale-780x439.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>10 myths about enterprise adoption of Docker</h1><p>In the past 12 months, enterprises considering Docker have been presented with a daunting series of steps on their journey from virtualization to containerization. Docker has made the first step easy and free. For the enterprise, it's the next steps where the pain begins.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b08348121e321b7de1477a10fc812bdd/noop.jpg?input=http%3A%2F%2F1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com%2Fwp-content%2Fuploads%2F2015%2F06%2FDocker-plush-whale-780x439.jpg"></article>]]></description>
             <link>http://venturebeat.com/2015/06/30/10-myths-about-enterprise-adoption-of-docker/</link>
             <guid isPermaLink="false">8efb9b01-80ee-4c24-94ec-6789e6e16d57</guid>
             <pubDate>Tue, 23 Aug 2016 15:53:00 GMT</pubDate>
